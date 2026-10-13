@@ -8,7 +8,7 @@
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,python,docker,kubernetes,terraform,azure,mysql,postgres&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,python,docker,kubernetes,terraform,aws,azure,mysql,postgres&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,postman,prometheus&theme=dark" />
 </p>
 
