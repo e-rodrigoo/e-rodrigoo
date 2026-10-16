@@ -1,20 +1,30 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:30105E,100:8A2BE2&text=ENZO%20RODRIGO&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20CLOUD%20%26%20DEVOPS&descSize=14&descAlignY=58&animation=fadeIn" />
+<div align="center">
+
+<h1>ENZO RODRIGO</h1>
+
+<h3>Computer Science Graduate | Cloud &amp; DevOps</h3>
+
+<p>
+  <a href="https://github.com/e-rodrigoo">
+    <img src="https://img.shields.io/badge/GitHub-e--rodrigoo-181717?style=for-the-badge&amp;logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/e-rodrigoo/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+my+Cloud+%26+DevOps+journey;Linux+%7C+AWS+%7C+Automation;Learning+by+building%2C+testing+and+breaking;Turning+infrastructure+into+code." alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/e-rodrigoo">
-  <img src="https://img.shields.io/badge/GitHub-e--rodrigoo-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/e-rodrigoo/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
-<br/><br/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/MICROSOFT-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/FOCUS-Cloud%20%26%20DevOps-8A2BE2?style=flat-square&logo=amazonaws&logoColor=white" />
